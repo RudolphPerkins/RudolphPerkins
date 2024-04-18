@@ -1,0 +1,1 @@
+My name is Rudolph Perkins. I am a mathematician and educator who is currently participating in the Erdos Institute's May Data Science Boot Camp. I am looking to transition from mathematics research and teaching into the field of data science or something associated.
